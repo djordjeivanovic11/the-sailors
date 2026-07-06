@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">The Sailors Group</title>
+  <desc id="desc">Open-source AI, language, and infrastructure tools for Montenegro.</desc>
+  <rect width="1200" height="630" fill="#ffffff" />
+  <rect x="48" y="48" width="1104" height="534" fill="#f2ffe9" stroke="#082b66" stroke-width="3" />
+  <circle cx="132" cy="130" r="42" fill="#c8ffa6" stroke="#082b66" stroke-width="3" />
+  <path d="M131 80 L142 132 L132 180 L120 132 Z" fill="#082b66" />
+  <path d="M92 130 L127 119 L111 141 Z" fill="#082b66" />
+  <path d="M172 130 L137 119 L153 141 Z" fill="#082b66" />
+  <text x="208" y="145" fill="#082b66" font-family="Geist, Inter, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-2">
+    The Sailors Group
+  </text>
+  <text x="96" y="310" fill="#082b66" font-family="Geist, Inter, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-4">
+    Otvorena tehnoloaka
+  </text>
+  <text x="96" y="398" fill="#082b66" font-family="Geist, Inter, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-4">
+    infrastruktura za Crnu Goru
+  </text>
+  <text x="96" y="492" fill="#42526b" font-family="Geist, Inter, Arial, sans-serif" font-size="30" font-weight="500">
+    Open-source. Javni interes. Prvo Crna Gora.
+  </text>
+</svg>

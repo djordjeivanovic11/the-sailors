@@ -1,0 +1,23 @@
+{
+  "name": "The Sailors Group",
+  "short_name": "Sailors",
+  "description": "Open-source AI, jezički i infrastrukturni projekti za Crnu Goru.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#082b66",
+  "icons": [
+    {
+      "src": "/sailors.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/sailors-bigger.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
