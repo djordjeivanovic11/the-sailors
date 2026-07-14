@@ -6,7 +6,7 @@ export const languages = [
 export const siteContent = {
   me: {
     meta: {
-      title: 'The Sailors Group — otvorena tehnološka infrastruktura',
+      title: 'Anchor Labs — otvorena tehnološka infrastruktura',
     },
     header: {
       menuOpenLabel: 'Otvori meni',
@@ -23,7 +23,7 @@ export const siteContent = {
       eyebrow: 'Otvorena tehnološka infrastruktura',
       headline: 'Gradimo otvorenu tehnološku infrastrukturu za Crnu Goru.',
       subheadline:
-        'The Sailors Group okuplja inženjere, istraživače, studente, dijasporu, institucije i firme oko jednog cilja: open-source AI, jezički i infrastrukturni projekti koje Crna Gora zaista može koristiti.',
+        'Anchor Labs okuplja inženjere, istraživače, studente, dijasporu, institucije i firme oko jednog cilja: open-source AI, jezički i infrastrukturni projekti koje Crna Gora zaista može koristiti.',
       primaryCta: 'Postani osnivački podržavalac',
       secondaryCta: 'Istraži projekte',
       credibility: 'Open-source. Javni interes. Prvo Crna Gora.',
@@ -41,7 +41,7 @@ Nije problem u pameti. Imamo inženjere, i ovdje i u dijaspori. Imamo studente k
 
 Kad tehnologija dolazi samo kao gotov proizvod, zemlja uči da zavisi od drugih. Kad se gradi lokalno — makar djelimično, makar nesavršeno — zemlja uči da razumije, prilagođava i, na kraju, vodi. To je bitno za suverenitet, za institucije, za obrazovanje i za obične ljude kojima bi trebalo da rade sistemi na njihovom jeziku, po njihovim zakonima, za njihov interes.
 
-The Sailors Group postoji da popuni tu prazninu. Nismo klub, nismo jednokratna kampanja, nismo nečiji lični projekat. Okupljamo inženjere, istraživače, dizajnere, studente, dijasporu, institucije i firme oko konkretnog open-source rada. Projekti su praktični, standardi ozbiljni, a fokus je jasan — javni interes i Crna Gora, uz otvorenost za saradnju u regionu i šire.
+Anchor Labs postoji da popuni tu prazninu. Nismo klub, nismo jednokratna kampanja, nismo nečiji lični projekat. Okupljamo inženjere, istraživače, dizajnere, studente, dijasporu, institucije i firme oko konkretnog open-source rada. Projekti su praktični, standardi ozbiljni, a fokus je jasan — javni interes i Crna Gora, uz otvorenost za saradnju u regionu i šire.
 
 Vjerujemo da ovo treba da grade ljudi kao mi. Inženjer iz Crne Gore ne bi trebalo da bira između odlaska iz zemlje i odustajanja od ambicije. Student bi trebalo da vidi pravi projekat kojem može doprinijeti prije nego što diplomira. Neko iz dijaspore treba da ima ozbiljno mjesto gdje može uložiti vrijeme i znanje u zemlju iz koje potiče. Institucija treba moći da usvoji alat napravljen za njen kontekst. Firma treba da vidi nacionalni napor vrijedan podrške — ne kao donaciju, nego kao ulaganje u digitalni sloj o kom će jednog dana zavisiti njen posao.
 
@@ -97,7 +97,7 @@ Ovo nije poziv na donacije. Ovo je poziv da uložite u nacionalni kapacitet: ope
       ],
     },
     footer: {
-      text: 'The Sailors Group · Crna Gora',
+      text: 'Anchor Labs · Crna Gora',
       links: [
         {
           label: 'LinkedIn',
@@ -112,7 +112,7 @@ Ovo nije poziv na donacije. Ovo je poziv da uložite u nacionalni kapacitet: ope
   },
   en: {
     meta: {
-      title: 'The Sailors Group — Open Technology Infrastructure',
+      title: 'Anchor Labs — Open Technology Infrastructure',
     },
     header: {
       menuOpenLabel: 'Open menu',
@@ -129,7 +129,7 @@ Ovo nije poziv na donacije. Ovo je poziv da uložite u nacionalni kapacitet: ope
       eyebrow: 'Open technology infrastructure',
       headline: 'Building open technology infrastructure for Montenegro.',
       subheadline:
-        'The Sailors Group brings together engineers, researchers, students, diaspora, institutions, and companies to build open-source AI, civic, language, and infrastructure projects that Montenegro can actually use.',
+        'Anchor Labs brings together engineers, researchers, students, diaspora, institutions, and companies to build open-source AI, civic, language, and infrastructure projects that Montenegro can actually use.',
       primaryCta: 'Become a founding supporter',
       secondaryCta: 'Explore projects',
       credibility: 'Open-source. Public-interest. Montenegro-first.',
@@ -145,7 +145,7 @@ The problem is not a lack of intelligence. Montenegro has talented engineers in 
 
 When technology arrives only as consumption, a country learns to depend. When technology is built locally — even partially, imperfectly, and incrementally — a country learns to understand, adapt, and eventually lead. That distinction matters for sovereignty, institutions, education, and the everyday experience of citizens who deserve systems that understand their language and public context.
 
-The Sailors Group exists to help close that gap. It is not a club, a campaign, or a one-person project. It is a builder collective: engineers, researchers, designers, students, diaspora members, institutions, and companies gathering around concrete open-source work. The projects are practical, the standards are serious, and the orientation is public-interest and Montenegro-first.
+Anchor Labs exists to help close that gap. It is not a club, a campaign, or a one-person project. It is a builder collective: engineers, researchers, designers, students, diaspora members, institutions, and companies gathering around concrete open-source work. The projects are practical, the standards are serious, and the orientation is public-interest and Montenegro-first.
 
 This is not a donation appeal. It is an invitation to invest in national capability: open-source tools, public infrastructure, talent visibility, and long-term digital sovereignty. The work is early. The standards are high. The need is real. The people who should build Montenegro’s technical future are already here — they need the infrastructure, projects, and institution that let them work together.`,
     },
@@ -197,7 +197,7 @@ This is not a donation appeal. It is an invitation to invest in national capabil
       ],
     },
     footer: {
-      text: 'The Sailors Group · Montenegro',
+      text: 'Anchor Labs · Montenegro',
       links: [
         {
           label: 'LinkedIn',

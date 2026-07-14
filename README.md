@@ -1,6 +1,6 @@
-# The Sailors Group
+# Anchor Labs
 
-Static Vite + React landing page for The Sailors Group.
+Static Vite + React landing page for Anchor Labs.
 
 ## Local Development
 
@@ -36,7 +36,7 @@ These settings are also declared in `vercel.json`, so Vercel should detect them 
 The current SEO canonical URL and sitemap use:
 
 ```text
-https://the-sailors.vercel.app/
+https://anchor-labs.vercel.app/
 ```
 
 If you deploy to a custom domain, update that URL in:

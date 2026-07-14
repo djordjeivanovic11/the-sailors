@@ -2,15 +2,15 @@ export default function Wordmark({ className = '' }) {
   return (
     <span
       className={`wordmark${className ? ` ${className}` : ''}`}
-      aria-label="The Sailors Group"
+      aria-label="Anchor Labs"
     >
       <img
         className="wordmark-icon"
-        src="/sailors-bigger.svg"
+        src="/anchor-mark.svg"
         alt=""
         aria-hidden="true"
       />
-      <span className="wordmark-text">The Sailors Group</span>
+      <span className="wordmark-text">Anchor Labs</span>
     </span>
   )
 }

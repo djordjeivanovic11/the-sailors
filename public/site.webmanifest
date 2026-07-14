@@ -1,6 +1,6 @@
 {
-  "name": "The Sailors Group",
-  "short_name": "Sailors",
+  "name": "Anchor Labs",
+  "short_name": "Anchor Labs",
   "description": "Open-source AI, jezički i infrastrukturni projekti za Crnu Goru.",
   "start_url": "/",
   "display": "standalone",
@@ -8,13 +8,13 @@
   "theme_color": "#082b66",
   "icons": [
     {
-      "src": "/sailors.svg",
+      "src": "/anchor.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
     },
     {
-      "src": "/sailors-bigger.svg",
+      "src": "/anchor-mark.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
