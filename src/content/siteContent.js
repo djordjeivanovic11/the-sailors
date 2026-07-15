@@ -8,7 +8,7 @@ export const siteContent = {
     meta: {
       title: 'Anchor Labs — AI laboratorija za Crnu Goru',
       description:
-        'Anchor Labs razvija MNE-MCP, Montenegrina Voice AI i suvereni AI model za crnogorski kontekst.',
+        'Anchor Labs razvija MNE-MCP, Montenegrina Voice AI, suvereni AI model i Talas platformu za inteligenciju o ljudima.',
       ogTitle: 'Anchor Labs — Crna Gora na tehnološkoj granici',
       ogDescription:
         'Gradimo AI proizvode i domaći tehnološki kapacitet koji Crnu Goru pomjeraju iz uloge korisnika u ulogu zemlje koja oblikuje budućnost.',
@@ -83,6 +83,13 @@ export const siteContent = {
           description:
             'Fino podešeni 35B-A3B model razvijen za crnogorski jezik, domaće znanje, institucije i društveni kontekst.',
         },
+        {
+          title: 'Talas',
+          status: 'Završeno',
+          description:
+            'Nacionalna platforma za inteligenciju o ljudima koja mapira ekspertizu, veze i reputaciju kako bi prave prilike brže pronašle prave ljude.',
+          href: 'https://talas.app/',
+        },
       ],
     },
     footer: {
@@ -103,7 +110,7 @@ export const siteContent = {
     meta: {
       title: 'Anchor Labs — AI Lab for Montenegro',
       description:
-        'Anchor Labs builds MNE-MCP, Montenegrina Voice AI, and a sovereign AI model for the Montenegrin context.',
+        'Anchor Labs builds MNE-MCP, Montenegrina Voice AI, a sovereign AI model, and Talas, a national people intelligence platform.',
       ogTitle: 'Anchor Labs — Montenegro at the technological frontier',
       ogDescription:
         'We build AI products and local technological capacity that move Montenegro from a consumer of the future to one of its makers.',
@@ -177,6 +184,13 @@ export const siteContent = {
           status: 'In development',
           description:
             'A fine-tuned 35B-A3B model built for the Montenegrin language, domestic knowledge, institutions, and social context.',
+        },
+        {
+          title: 'Talas',
+          status: 'Complete',
+          description:
+            'A national people intelligence platform that maps expertise, relationships, and reputation so the right opportunities reach the right people faster.',
+          href: 'https://talas.app/',
         },
       ],
     },
