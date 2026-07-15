@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://anchor-labs.vercel.app/sitemap.xml
+Sitemap: https://anchor-labs-mne.vercel.app/sitemap.xml

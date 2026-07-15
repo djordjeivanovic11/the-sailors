@@ -14,10 +14,12 @@ export default function Projects({ content }) {
                 <span className="status-badge">{project.status}</span>
               </div>
               <p className="project-description">{project.description}</p>
-              <a href={project.href} className="project-link">
-                {content.learnMore}
-                <span aria-hidden="true"> →</span>
-              </a>
+              {project.href ? (
+                <a href={project.href} className="project-link">
+                  {content.learnMore}
+                  <span aria-hidden="true"> →</span>
+                </a>
+              ) : null}
             </article>
           ))}
         </div>

@@ -36,7 +36,7 @@ These settings are also declared in `vercel.json`, so Vercel should detect them 
 The current SEO canonical URL and sitemap use:
 
 ```text
-https://anchor-labs.vercel.app/
+https://anchor-labs-mne.vercel.app/
 ```
 
 If you deploy to a custom domain, update that URL in:

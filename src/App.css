@@ -321,22 +321,6 @@ main {
   color: var(--color-blue);
 }
 
-.btn-text {
-  padding: 0.75rem 0;
-  background: none;
-  border: none;
-  border-bottom: 1px solid var(--color-blue);
-  border-radius: 0;
-  color: var(--color-blue);
-  font-size: 0.9375rem;
-  font-weight: 500;
-}
-
-.btn-text:hover {
-  border-color: var(--color-text-muted);
-  color: var(--color-text-muted);
-}
-
 /* ── Motivation ── */
 
 .motivation {
@@ -358,33 +342,6 @@ main {
   max-width: 920px;
 }
 
-.motivation-body {
-  position: relative;
-  max-height: min(50vh, 34rem);
-  overflow: hidden;
-  transition: max-height 0.5s ease;
-}
-
-.motivation-body::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 6rem;
-  background: linear-gradient(to bottom, transparent, var(--color-bg));
-  pointer-events: none;
-  transition: opacity 0.3s ease;
-}
-
-.motivation-body.is-expanded {
-  max-height: none;
-}
-
-.motivation-body.is-expanded::after {
-  opacity: 0;
-}
-
 .motivation-body p {
   margin: 0 0 1.5rem;
   max-width: 68ch;
@@ -396,10 +353,6 @@ main {
 
 .motivation-body p:last-child {
   margin-bottom: 0;
-}
-
-.read-more {
-  margin-top: 2rem;
 }
 
 /* ── Sponsor ── */
@@ -627,10 +580,6 @@ main {
     font-size: clamp(3.5rem, 17vw, 5.25rem);
   }
 
-  .motivation-body {
-    max-height: 32rem;
-  }
-
   .hero-actions {
     flex-direction: column;
   }
@@ -665,10 +614,6 @@ main {
   .motivation-grid,
   .sponsor-box {
     grid-template-columns: 1fr;
-  }
-
-  .motivation-body {
-    max-height: 34rem;
   }
 
   .project-grid {
@@ -731,10 +676,6 @@ main {
 
   .motivation-copy {
     max-width: 1080px;
-  }
-
-  .motivation-body {
-    max-height: min(54vh, 42rem);
   }
 
   .motivation-body p {

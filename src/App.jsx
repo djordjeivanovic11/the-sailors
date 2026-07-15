@@ -16,7 +16,13 @@ function App() {
 
     document.documentElement.lang = languageMeta?.htmlLang ?? language
     document.title = content.meta.title
-  }, [content.meta.title, language])
+    document.querySelector('meta[name="description"]')?.setAttribute('content', content.meta.description)
+    document.querySelector('meta[property="og:title"]')?.setAttribute('content', content.meta.ogTitle)
+    document.querySelector('meta[property="og:description"]')?.setAttribute('content', content.meta.ogDescription)
+    document.querySelector('meta[property="og:locale"]')?.setAttribute('content', content.meta.locale)
+    document.querySelector('meta[name="twitter:title"]')?.setAttribute('content', content.meta.ogTitle)
+    document.querySelector('meta[name="twitter:description"]')?.setAttribute('content', content.meta.ogDescription)
+  }, [content.meta, language])
 
   return (
     <div className="site">
