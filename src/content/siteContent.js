@@ -6,12 +6,12 @@ export const languages = [
 export const siteContent = {
   me: {
     meta: {
-      title: 'Anchor Labs — AI laboratorija za Crnu Goru',
+      title: 'Anchor Labs — Vještačka inteligencija za razvoj Crne Gore',
       description:
-        'Anchor Labs razvija MNE-MCP, Montenegrina Voice AI, suvereni AI model i Talas platformu za inteligenciju o ljudima.',
-      ogTitle: 'Anchor Labs — Crna Gora na tehnološkoj granici',
+        'Anchor Labs razvija domaća rješenja vještačke inteligencije: MNE-MCP, Montenegrina Voice AI, suvereni model 35B-A3B i platformu Talas.',
+      ogTitle: 'Anchor Labs — Vještačka inteligencija za razvoj Crne Gore',
       ogDescription:
-        'Gradimo AI proizvode i domaći tehnološki kapacitet koji Crnu Goru pomjeraju iz uloge korisnika u ulogu zemlje koja oblikuje budućnost.',
+        'Razvijamo domaće podatke, modele i proizvode kako bi Crna Gora stvarala tehnologiju koja razumije njen jezik, institucije i društvo.',
       locale: 'cnr_ME',
     },
     header: {
@@ -21,40 +21,40 @@ export const siteContent = {
       languageLabel: 'Promijeni jezik',
       navItems: [
         { label: 'Zašto je ovo važno', href: '#why' },
-        { label: 'Zašto firme podržavaju ovo', href: '#support' },
+        { label: 'Zašto nas podržati', href: '#support' },
         { label: 'Projekti', href: '#projects' },
       ],
     },
     hero: {
-      eyebrow: 'AI laboratorija za Crnu Goru',
-      headline: 'Gradimo AI proizvode koji unapređuju Crnu Goru.',
+      eyebrow: 'Laboratorija vještačke inteligencije iz Crne Gore',
+      headline: 'Razvijamo vještačku inteligenciju za napredniju Crnu Goru.',
       subheadline:
-        'Anchor Labs razvija AI proizvode za Crnu Goru, prvenstveno za javni sektor — da institucije rade pametnije, brže i efikasnije.',
+        'Anchor Labs razvija domaća rješenja zasnovana na vještačkoj inteligenciji, prije svega za državnu upravu i javni sektor, kako bi institucije pružale brže, dostupnije i kvalitetnije usluge.',
       primaryCta: 'Postani partner',
       secondaryCta: 'Istraži projekte',
-      credibility: 'AI za javni interes. Crna Gora na prvom mjestu.',
+      credibility: 'Odgovorna tehnologija u službi javnog interesa.',
     },
     motivation: {
       eyebrow: 'Naša misija',
-      title: 'AI koji služi Crnoj Gori',
-      body: 'Crna Gora mora biti na ivici tehnološkog napretka ako želi da svoju veličinu pretvori u prednost. Vještačka inteligencija nam daje priliku da izgradimo brže institucije, dostupnije javne usluge i ekonomiju koja se takmiči znanjem, a ne obimom. Taj napredak ne smijemo samo uvoziti: moramo stvarati sopstvene podatke, modele i proizvode koji razumiju naš jezik, zakone i društvo. Ulaganjem u domaće talente i odgovornu tehnologiju danas, stvaramo više slobode, otpornosti i mogućnosti za generacije koje dolaze. Anchor Labs postoji da Crnu Goru pomjeri iz uloge korisnika u ulogu zemlje koja oblikuje budućnost.',
+      title: 'Tehnologija koja služi Crnoj Gori',
+      body: 'Crna Gora mora biti među predvodnicima tehnološkog razvoja kako bi svoju veličinu pretvorila u prednost. Vještačka inteligencija pruža nam priliku da izgradimo djelotvornije institucije, dostupnije javne usluge i privredu koja konkuriše znanjem, a ne veličinom. Taj napredak ne smijemo samo preuzimati iz svijeta; moramo stvarati sopstvene podatke, modele i proizvode koji razumiju naš jezik, propise i društvo. Ulaganjem u domaće talente i odgovornu tehnologiju danas stvaramo više slobode, otpornosti i prilika za generacije koje dolaze. Misija Anchor Labsa je da Crna Gora ne bude samo korisnik novih tehnologija, već zemlja koja ih stvara i njima oblikuje svoju budućnost.',
     },
     sponsor: {
       eyebrow: 'Partnerstvo',
-      title: 'Zajedno gradimo bolje usluge',
-      text: 'Partneri pomažu da AI rješenja nastaju iz stvarnih potreba institucija i građana — uz razvoj domaćeg znanja, talenata i proizvoda koji stvaraju mjerljiv javni učinak.',
+      title: 'Zajedno stvaramo bolje javne usluge',
+      text: 'Partneri omogućavaju da rješenja zasnovana na vještačkoj inteligenciji nastanu iz stvarnih potreba institucija i građana. Istovremeno jačamo domaće znanje i talente i stvaramo proizvode sa mjerljivim koristima za društvo.',
       points: [
         {
-          title: 'Javna vrijednost',
-          text: 'Rješenja koja odgovaraju stvarnim potrebama građana i institucija.',
+          title: 'Doprinos javnom interesu',
+          text: 'Rješenja prilagođena stvarnim potrebama građana i institucija.',
         },
         {
-          title: 'Vidljivost talenata',
-          text: 'Signal inženjerima, studentima i dijaspori da se Crna Gora isplati graditi.',
+          title: 'Razvoj domaćih talenata',
+          text: 'Dokaz inženjerima, studentima i dijaspori da u Crnoj Gori vrijedi stvarati i graditi karijeru.',
         },
         {
-          title: 'Strateška vrijednost',
-          text: 'Učešće u izgradnji AI kapaciteta Crne Gore.',
+          title: 'Dugoročna vrijednost',
+          text: 'Učešće u izgradnji domaćih kapaciteta za razvoj vještačke inteligencije.',
         },
       ],
     },
@@ -67,33 +67,36 @@ export const siteContent = {
           title: 'MNE-MCP',
           status: 'Završeno',
           description:
-            'Otvorena alatska infrastruktura za crnogorske pravne, institucionalne, javne i građanske podatke — lakši pristup provjerenim informacijama, i za ljude i za AI sisteme.',
+            'Otvorena infrastruktura koja crnogorske pravne, institucionalne, javne i građanske podatke čini lakše dostupnim ljudima i sistemima vještačke inteligencije.',
           href: 'https://app.mne-mcp.com',
         },
         {
           title: 'Montenegrina Voice AI',
           status: 'Završeno',
           description:
-            'Glasovni AI za crnogorski govor — za pristupačnost, obrazovanje, javne usluge i interakciju čovjek–računar na maternjem jeziku.',
+            'Glasovna vještačka inteligencija prilagođena crnogorskom govoru, namijenjena pristupačnosti, obrazovanju, javnim uslugama i komunikaciji sa tehnologijom na maternjem jeziku.',
           href: 'https://voice.mne-mcp.com',
         },
         {
           title: 'Suvereni AI model',
-          status: 'U razvoju',
+          status: 'Završeno',
           description:
-            'Fino podešeni 35B-A3B model razvijen za crnogorski jezik, domaće znanje, institucije i društveni kontekst.',
+            'Suvereni model 35B-A3B, dodatno obučen i prilagođen crnogorskom jeziku, domaćem znanju, institucijama i društvenom kontekstu.',
+          href: 'mailto:djordjeivanovic65@gmail.com?subject=Suvereni%20AI%20model',
+          linkLabel: 'Pišite nam',
         },
         {
           title: 'Talas',
           status: 'Završeno',
           description:
-            'Nacionalna platforma za inteligenciju o ljudima koja mapira ekspertizu, veze i reputaciju kako bi prave prilike brže pronašle prave ljude.',
+            'Platforma koja povezuje podatke o stručnosti, profesionalnim vezama i reputaciji kako bi odgovarajuće prilike brže stigle do pravih ljudi.',
           href: 'https://talas.app/',
         },
       ],
     },
     footer: {
       text: 'Anchor Labs · Crna Gora',
+      navLabel: 'Kontakt i društvene mreže',
       links: [
         {
           label: 'LinkedIn',
@@ -181,9 +184,11 @@ export const siteContent = {
         },
         {
           title: 'Sovereign AI Model',
-          status: 'In development',
+          status: 'Complete',
           description:
             'A fine-tuned 35B-A3B model built for the Montenegrin language, domestic knowledge, institutions, and social context.',
+          href: 'mailto:djordjeivanovic65@gmail.com?subject=Sovereign%20AI%20Model',
+          linkLabel: 'Contact us',
         },
         {
           title: 'Talas',
@@ -196,6 +201,7 @@ export const siteContent = {
     },
     footer: {
       text: 'Anchor Labs · Montenegro',
+      navLabel: 'Contact and social links',
       links: [
         {
           label: 'LinkedIn',

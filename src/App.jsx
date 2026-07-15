@@ -43,7 +43,7 @@ function App() {
       <footer className="site-footer">
         <div className="section-inner footer-inner">
           <p>{content.footer.text}</p>
-          <nav className="footer-links" aria-label="Footer">
+          <nav className="footer-links" aria-label={content.footer.navLabel}>
             {content.footer.links.map((link) => (
               <a key={link.href} href={link.href}>
                 {link.label}

@@ -16,7 +16,7 @@ export default function Projects({ content }) {
               <p className="project-description">{project.description}</p>
               {project.href ? (
                 <a href={project.href} className="project-link">
-                  {content.learnMore}
+                  {project.linkLabel ?? content.learnMore}
                   <span aria-hidden="true"> →</span>
                 </a>
               ) : null}
