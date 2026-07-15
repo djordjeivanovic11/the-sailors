@@ -1,7 +1,7 @@
 {
   "name": "Anchor Labs",
   "short_name": "Anchor Labs",
-  "description": "Domaća rješenja vještačke inteligencije: MNE-MCP, Montenegrina Voice AI, suvereni model 35B-A3B i platforma Talas.",
+  "description": "Domaća rješenja vještačke inteligencije: MNE-MCP, Montenegrina Voice AI, suvereni model sa 35 milijardi parametara i platforma Talas.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",

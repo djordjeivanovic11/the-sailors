@@ -8,7 +8,7 @@ export const siteContent = {
     meta: {
       title: 'Anchor Labs — Vještačka inteligencija za razvoj Crne Gore',
       description:
-        'Anchor Labs razvija domaća rješenja vještačke inteligencije: MNE-MCP, Montenegrina Voice AI, suvereni model 35B-A3B i platformu Talas.',
+        'Anchor Labs razvija domaća rješenja vještačke inteligencije: MNE-MCP, Montenegrina Voice AI, suvereni model sa 35 milijardi parametara i platformu Talas.',
       ogTitle: 'Anchor Labs — Vještačka inteligencija za razvoj Crne Gore',
       ogDescription:
         'Razvijamo domaće podatke, modele i proizvode kako bi Crna Gora stvarala tehnologiju koja razumije njen jezik, institucije i društvo.',
@@ -81,7 +81,7 @@ export const siteContent = {
           title: 'Suvereni AI model',
           status: 'Završeno',
           description:
-            'Suvereni model 35B-A3B, dodatno obučen i prilagođen crnogorskom jeziku, domaćem znanju, institucijama i društvenom kontekstu.',
+            'Suvereni model sa 35 milijardi parametara, dodatno obučen i prilagođen crnogorskom jeziku, domaćem znanju, institucijama i društvenom kontekstu.',
           href: 'mailto:djordjeivanovic65@gmail.com?subject=Suvereni%20AI%20model',
           linkLabel: 'Pišite nam',
         },
@@ -186,7 +186,7 @@ export const siteContent = {
           title: 'Sovereign AI Model',
           status: 'Complete',
           description:
-            'A fine-tuned 35B-A3B model built for the Montenegrin language, domestic knowledge, institutions, and social context.',
+            'A fine-tuned 35B-parameter model built for the Montenegrin language, domestic knowledge, institutions, and social context.',
           href: 'mailto:djordjeivanovic65@gmail.com?subject=Sovereign%20AI%20Model',
           linkLabel: 'Contact us',
         },
